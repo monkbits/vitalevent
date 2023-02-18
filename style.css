@@ -3,7 +3,56 @@
     margin: 0;
 }
 
-.header{
-    padding:10px;
-    background: rgb(137, 137, 137);
+.header {
+    padding: 10px;
+    background: url(pics/01.jpg) #d85269;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position-y: -309px;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 0px 6px black;
+}
+
+.navbutak{
+    padding: 10px;
+}
+
+.sec2{
+    height: 80vh;
+}
+
+.sec2a{
+    width: 50%;
+    float: left;
+    padding: 30px;
+}
+
+.sec3{
+    background-color: black;
+}
+
+.cardhere{
+    height: 100px;
+    background-color: white;
+}
+
+.seclasta{
+    height: 70px;
+    background-color: black;
+    width: 50%;
+    float: left;
+}
+
+.seclb{
+    height: 60px;
+    border: 1px solid white; 
+    background-color: antiquewhite;
+    width: 45%;
+    float: left;
+}
+
+.footer{
+    height: 500px;
+    background-color: #1f2937;
 }
